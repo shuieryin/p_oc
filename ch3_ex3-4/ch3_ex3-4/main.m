@@ -2,8 +2,8 @@
 //  main.m
 //  ch3_prog3-2
 //
-//  Created by GuoCollin on 3/6/16.
-//  Copyright © 2016 GuoCollin. All rights reserved.
+//  Created by Shuieryin on 3/6/16.
+//  Copyright © 2016 Shuieryin. All rights reserved.
 //
 
 // Program to work with fractions - cont'd

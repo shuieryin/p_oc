@@ -2,8 +2,8 @@
 //  main.m
 //  ch4_prog2
 //
-//  Created by GuoCollin on 3/7/16.
-//  Copyright © 2016 GuoCollin. All rights reserved.
+//  Created by Shuieryin on 3/7/16.
+//  Copyright © 2016 Shuieryin. All rights reserved.
 //
 
 #import <Foundation/Foundation.h>
