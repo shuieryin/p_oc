@@ -2,7 +2,7 @@
 //  main.m
 //  ch4_prog6
 //
-//  Created by GuoCollin on 3/10/16.
+//  Created by Shuieryin on 3/10/16.
 //  Copyright (c) 2016 Shuieryin. All rights reserved.
 //
 
