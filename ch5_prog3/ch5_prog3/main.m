@@ -20,9 +20,9 @@ int main(int argc, const char *argv[]) {
 
         triangularNumber = 0;
 
-        for (n = 1; n <= 10; n++) {
+        for (n = 1; n <= 100; n++) {
             triangularNumber += n;
-            NSLog(@" %i        %i", n, triangularNumber);
+            NSLog(@"%3i        %i", n, triangularNumber);
         }
     }
 
