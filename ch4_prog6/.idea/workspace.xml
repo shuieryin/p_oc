@@ -2,7 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7f3bb8cb-b047-4704-9cae-d1e3df92bf1d" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ch5_prog3/ch5_prog3/main.m" afterPath="$PROJECT_DIR$/../ch5_prog3/ch5_prog3/main.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch6_prog2/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ch5_ex8/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../ch5_ex8/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ch5_prog1/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../ch5_prog1/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ch5_prog2/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../ch5_prog2/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ch5_prog3/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../ch5_prog3/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ch5_prog4/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../ch5_prog4/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ch5_prog5/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../ch5_prog5/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ch5_prog6/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../ch5_prog6/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ch5_prog7/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../ch5_prog7/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ch5_prog8/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../ch5_prog8/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ch5_prog9/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../ch5_prog9/.idea/workspace.xml" />
     </list>
     <ignored path="ch4_prog6.iws" />
     <ignored path=".idea/workspace.xml" />
