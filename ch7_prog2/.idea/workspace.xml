@@ -1,17 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d2caa10c-06a7-46cc-9126-8f6e3e4cacc6" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ch4_prog4/ch4_prog4.xcodeproj/project.xcworkspace/xcuserdata/shuieryin.xcuserdatad/UserInterfaceState.xcuserstate" afterPath="$PROJECT_DIR$/../ch4_prog4/ch4_prog4.xcodeproj/project.xcworkspace/xcuserdata/shuieryin.xcuserdatad/UserInterfaceState.xcuserstate" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ch5_prog8/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../ch5_prog8/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ch6_prog10/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../ch6_prog10/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ch6_prog10/ch6_prog10/main.m" afterPath="$PROJECT_DIR$/../ch6_prog10/ch6_prog10/main.m" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ch6_prog2/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../ch6_prog2/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ch6_prog3/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../ch6_prog3/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ch6_prog5/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../ch6_prog5/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ch6_prog6/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../ch6_prog6/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ch6_prog7/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../ch6_prog7/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="d2caa10c-06a7-46cc-9126-8f6e3e4cacc6" name="Default" comment="" />
     <ignored path="ch7_prog2.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
