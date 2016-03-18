@@ -35,6 +35,8 @@
 
     numerator = numerator * f.denominator + denominator * f.numerator;
     denominator *= f.denominator;
+
+    [self reduce];
 }
 
 - (void)reduce {

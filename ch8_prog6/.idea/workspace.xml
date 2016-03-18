@@ -1,11 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d2caa10c-06a7-46cc-9126-8f6e3e4cacc6" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch7_prog2/Fraction.m" afterPath="$PROJECT_DIR$/ch7_prog2/Fraction.m" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch7_prog2/main.m" afterPath="$PROJECT_DIR$/ch7_prog2/main.m" />
+    <list default="true" id="81560abf-8c2a-445d-b895-315a0f8545de" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch8_prog2/ch8_prog2/Rectangle.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch8_prog2/ch8_prog2/Rectangle.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch8_prog2/ch8_prog2/Square.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch8_prog2/ch8_prog2/Square.m" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ch6_prog10/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../ch6_prog10/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ch7_prog2/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../ch7_prog2/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ch7_prog2/ch7_prog2/Fraction.m" afterPath="$PROJECT_DIR$/../ch7_prog2/ch7_prog2/Fraction.m" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ch7_prog2/ch7_prog2/main.m" afterPath="$PROJECT_DIR$/../ch7_prog2/ch7_prog2/main.m" />
     </list>
-    <ignored path="ch7_prog2.iws" />
+    <ignored path="ch8_prog6.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -20,47 +26,15 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="macos_x86_64" />
   <component name="FavoritesManager">
-    <favorites_list name="ch7_prog2" />
+    <favorites_list name="ch8_prog6" />
   </component>
   <component name="FileEditorManager">
     <leaf>
       <file leaf-file-name="main.m" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/ch7_prog2/main.m">
+        <entry file="file://$PROJECT_DIR$/ch8_prog6/main.m">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.4918033">
-              <caret line="25" column="45" selection-start-line="25" selection-start-column="45" selection-end-line="25" selection-end-column="45" />
-              <folding>
-                <element signature="e#127#160#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="NSObject.h" pinned="false" current-in-tab="false">
-        <entry file="file:///Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.11.sdk/usr/include/objc/NSObject.h">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="27" column="8" selection-start-line="27" selection-start-column="8" selection-end-line="27" selection-end-column="8" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Fraction.h" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ch7_prog2/Fraction.h">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="18" column="7" selection-start-line="18" selection-start-column="7" selection-end-line="18" selection-end-column="7" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Fraction.m" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ch7_prog2/Fraction.m">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="38" column="18" selection-start-line="38" selection-start-column="18" selection-end-line="38" selection-end-column="18" />
+            <state vertical-scroll-proportion="0.5081967">
+              <caret line="65" column="33" selection-start-line="65" selection-start-column="33" selection-end-line="65" selection-end-column="33" />
               <folding />
             </state>
           </provider>
@@ -74,9 +48,7 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/ch7_prog2/Fraction.h" />
-        <option value="$PROJECT_DIR$/ch7_prog2/Fraction.m" />
-        <option value="$PROJECT_DIR$/ch7_prog2/main.m" />
+        <option value="$PROJECT_DIR$/ch8_prog6/main.m" />
       </list>
     </option>
   </component>
@@ -98,7 +70,7 @@
     <OptionsSetting value="true" id="Update" />
     <OptionsSetting value="true" id="Status" />
     <OptionsSetting value="true" id="Edit" />
-    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="1" id="Add" />
     <ConfirmationsSetting value="0" id="Remove" />
   </component>
   <component name="ProjectView">
@@ -116,7 +88,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Cidr.FilesView" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -125,7 +96,7 @@
               <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeRootNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="ch7_prog2" />
+              <option name="myItemId" value="ch8_prog6" />
               <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeProjectNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -135,72 +106,50 @@
               <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeRootNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="ch7_prog2" />
+              <option name="myItemId" value="ch8_prog6" />
               <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="ch7_prog2" />
+              <option name="myItemId" value="ch8_prog6" />
               <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeViewNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
+      <pane id="Cidr.FilesView" />
     </panes>
   </component>
-  <component name="PropertiesComponent">
-    <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
-  </component>
-  <component name="RunManager" selected="Application.ch7_prog2">
-    <configuration default="false" name="ch7_prog2" type="AppleRunConfiguration" factoryName="Application" temporary="true" PASS_PARENT_ENVS="FALSE" PROJECT_NAME="ch7_prog2" TARGET_NAME="ch7_prog2" CONFIG_NAME="Debug" SCHEME_NAME="ch7_prog2" RUN_TARGET_PROJECT_NAME="ch7_prog2" RUN_TARGET_NAME="ch7_prog2" MAKE_ACTIVE="TRUE" WAIT_FOR="FALSE">
+  <component name="RunManager" selected="Application.ch8_prog6">
+    <configuration default="false" name="ch8_prog6" type="AppleRunConfiguration" factoryName="Application" temporary="true" PASS_PARENT_ENVS="FALSE" PROJECT_NAME="ch8_prog6" TARGET_NAME="ch8_prog6" CONFIG_NAME="Debug" SCHEME_NAME="ch8_prog6" RUN_TARGET_PROJECT_NAME="ch8_prog6" RUN_TARGET_NAME="ch8_prog6" MAKE_ACTIVE="TRUE" WAIT_FOR="FALSE">
       <envs />
       <EXTENSION ID="org.jetbrains.appcode.reveal.RevealRunConfigurationExtension">
         <REVEAL_SETTINGS autoInject="false" autoInstall="true" askToEnableAutoInstall="true" />
       </EXTENSION>
       <method />
     </configuration>
-    <configuration default="true" type="AppleRunConfiguration" factoryName="Application" PASS_PARENT_ENVS="FALSE" PROJECT_NAME="ch7_prog2" TARGET_NAME="ch7_prog2" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="ch7_prog2" RUN_TARGET_NAME="ch7_prog2" MAKE_ACTIVE="TRUE" WAIT_FOR="FALSE">
+    <configuration default="true" type="AppleRunConfiguration" factoryName="Application" PASS_PARENT_ENVS="FALSE" PROJECT_NAME="ch8_prog6" TARGET_NAME="ch8_prog6" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="ch8_prog6" RUN_TARGET_NAME="ch8_prog6" MAKE_ACTIVE="TRUE" WAIT_FOR="FALSE">
       <envs />
       <EXTENSION ID="org.jetbrains.appcode.reveal.RevealRunConfigurationExtension">
         <REVEAL_SETTINGS autoInject="false" autoInstall="true" askToEnableAutoInstall="true" />
       </EXTENSION>
-      <method />
-    </configuration>
-    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
-      <method />
-    </configuration>
-    <configuration default="true" type="OCGoogleTestRunConfigurationType" factoryName="Google Test" PASS_PARENT_ENVS="FALSE" PROJECT_NAME="ch7_prog2" TARGET_NAME="ch7_prog2" CONFIG_NAME="Debug" TEST_MODE="SUITE_TEST">
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="true" type="OCUnitRunConfiguration" factoryName="XCTest/Kiwi" PASS_PARENT_ENVS="FALSE" TEST_MODE="SUITE_TEST">
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
-      <method />
-    </configuration>
-    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
-      <command value="run-script" />
-      <scripts />
-      <envs />
       <method />
     </configuration>
     <list size="1">
-      <item index="0" class="java.lang.String" itemvalue="Application.ch7_prog2" />
+      <item index="0" class="java.lang.String" itemvalue="Application.ch8_prog6" />
     </list>
     <recent_temporary>
       <list size="1">
-        <item index="0" class="java.lang.String" itemvalue="Application.ch7_prog2" />
+        <item index="0" class="java.lang.String" itemvalue="Application.ch8_prog6" />
       </list>
     </recent_temporary>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="d2caa10c-06a7-46cc-9126-8f6e3e4cacc6" name="Default" comment="" />
-      <created>1458047122274</created>
+      <changelist id="81560abf-8c2a-445d-b895-315a0f8545de" name="Default" comment="" />
+      <created>1458306773994</created>
       <option name="number" value="Default" />
-      <updated>1458047122274</updated>
+      <updated>1458306773994</updated>
     </task>
     <servers />
   </component>
@@ -215,7 +164,7 @@
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32987013" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32987013" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
@@ -233,43 +182,15 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <option name="time" value="1" />
-    </breakpoint-manager>
+    <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/ch7_prog2/Fraction.m">
+    <entry file="file://$PROJECT_DIR$/ch8_prog6/main.m">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="38" column="18" selection-start-line="38" selection-start-column="18" selection-end-line="38" selection-end-column="18" />
+        <state vertical-scroll-proportion="0.5081967">
+          <caret line="65" column="33" selection-start-line="65" selection-start-column="33" selection-end-line="65" selection-end-column="33" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ch7_prog2/Fraction.h">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="18" column="7" selection-start-line="18" selection-start-column="7" selection-end-line="18" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.11.sdk/usr/include/objc/NSObject.h">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="27" column="8" selection-start-line="27" selection-start-column="8" selection-end-line="27" selection-end-column="8" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ch7_prog2/main.m">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.4918033">
-          <caret line="25" column="45" selection-start-line="25" selection-start-column="45" selection-end-line="25" selection-end-column="45" />
-          <folding>
-            <element signature="e#127#160#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>

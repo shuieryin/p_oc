@@ -30,11 +30,11 @@ int main(int argc, const char *argv[]) {
         NSLog(@"=");
 
         [aFraction add:bFraction];
-        [aFraction print];
 
         NSLog(@"Reduced:");
-        [aFraction reduce];
         [aFraction print];
+
+        NSLog(@"is proxy: %i", [bFraction isProxy]);
     }
 
     return 0;
