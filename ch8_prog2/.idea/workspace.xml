@@ -2,14 +2,28 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="44b7f4d6-b8f0-4519-a817-67ed46f5873f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch8_prog2/Rectangle.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch8_prog2/Rectangle.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch8_prog2/Square.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch8_prog2/Square.m" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ch6_prog10/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../ch6_prog10/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch9_prog1/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch9_prog1/ch9_prog1/Complex.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch9_prog1/ch9_prog1/Complex.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch9_prog1/ch9_prog1/Fraction.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch9_prog1/ch9_prog1/Fraction.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch9_prog2/.idea/ch9_prog2.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch9_prog2/.idea/encodings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch9_prog2/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch9_prog2/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch9_prog2/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch9_prog2/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch9_prog2/.idea/xcode.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch9_prog2/ch9_prog2/Complex.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch9_prog2/ch9_prog2/Complex.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch9_prog2/ch9_prog2/Fraction.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch9_prog2/ch9_prog2/Fraction.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch9_prog3/ch9_prog3/Square.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch9_prog3/ch9_prog3/Square.m" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ch7_prog2/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../ch7_prog2/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ch7_prog2/ch7_prog2/Fraction.m" afterPath="$PROJECT_DIR$/../ch7_prog2/ch7_prog2/Fraction.m" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ch7_prog2/ch7_prog2/main.m" afterPath="$PROJECT_DIR$/../ch7_prog2/ch7_prog2/main.m" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ch8_prog4/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../ch8_prog4/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ch8_prog6/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../ch8_prog6/.idea/workspace.xml" />
     </list>
     <ignored path="ch8_prog2.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -137,6 +151,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Cidr.FilesView" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -165,7 +180,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Cidr.FilesView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -202,6 +216,11 @@
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.npm" factoryName="npm">
@@ -234,7 +253,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="64" y="42" width="1345" height="839" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24981412" sideWeight="0.49224806" order="0" side_tool="false" content_ui="combo" />
@@ -273,6 +292,96 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/ch8_prog2/main.m">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="24" column="80" selection-start-line="24" selection-start-column="80" selection-end-line="24" selection-end-column="80" />
+          <folding>
+            <element signature="e#127#160#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch8_prog2/Square.m">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="6" column="34" selection-start-line="6" selection-start-column="34" selection-end-line="6" selection-end-column="34" />
+          <folding>
+            <marker date="1458140393000" expanded="true" signature="208:246" placeholder="{...}" />
+            <marker date="1458140393000" expanded="true" signature="260:286" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch8_prog2/Square.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="7" column="18" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch8_prog2/Rectangle.m">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch8_prog2/Rectangle.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="10" column="14" selection-start-line="10" selection-start-column="14" selection-end-line="10" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch8_prog2/main.m">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="24" column="80" selection-start-line="24" selection-start-column="80" selection-end-line="24" selection-end-column="80" />
+          <folding>
+            <element signature="e#127#160#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch8_prog2/Square.m">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="6" column="34" selection-start-line="6" selection-start-column="34" selection-end-line="6" selection-end-column="34" />
+          <folding>
+            <marker date="1458140393000" expanded="true" signature="208:246" placeholder="{...}" />
+            <marker date="1458140393000" expanded="true" signature="260:286" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch8_prog2/Square.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="7" column="18" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch8_prog2/Rectangle.m">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch8_prog2/Rectangle.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="10" column="14" selection-start-line="10" selection-start-column="14" selection-end-line="10" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/ch8_prog2/main.m">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
