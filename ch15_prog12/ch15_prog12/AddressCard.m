@@ -26,4 +26,10 @@
     NSLog(@"|       O                 O        |");
     NSLog(@"====================================");
 }
+
+
+- (NSComparisonResult)compareNames:(id)element {
+    return [name compare:[element name]];
+}
+
 @end

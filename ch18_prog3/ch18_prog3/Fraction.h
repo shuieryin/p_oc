@@ -6,13 +6,13 @@
 #import <Foundation/Foundation.h>
 
 
-@interface Fraction : NSObject
+@interface Fraction : NSObject <NSCopying>
 
 @property int numerator, denominator;
 
 - (void)print;
 
-- (void)setTo:(int)n :(int)d;
+- (void)setTo:(int)n over:(int)d;
 
 - (double)convertToNum;
 

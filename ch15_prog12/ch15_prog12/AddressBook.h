@@ -16,8 +16,22 @@
 
 - (void)addCard:(AddressCard *)theCard;
 
+- (void)removeCard:(AddressCard *)theCard;
+
 - (NSUInteger)entries;
 
 - (void)list;
+
+- (void)list_b;
+
+- (AddressCard *)lookup:(NSString *)theName;
+
+- (void)lookup_print:(NSString *)theName;
+
+- (void)sort;
+
+- (void)sort_b;
+
+- (NSIndexSet *)lookupAll:(NSString *)theName;
 
 @end

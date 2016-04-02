@@ -14,7 +14,7 @@
     NSLog(@"%i/%i ", numerator, denominator);
 }
 
-- (void)setTo:(int)n :(int)d {
+- (void)setTo:(int)n over:(int)d {
     numerator = n;
     denominator = d;
 }
@@ -52,6 +52,13 @@
 
     numerator /= u;
     denominator /= u;
+}
+
+- (id)copyWithZone:(NSZone *)zone {
+    id newFract = [[[self class] allocWithZone:zone] init];
+
+    [newFract setTo:numerator over:denominator];
+    return newFract;
 }
 
 @end
