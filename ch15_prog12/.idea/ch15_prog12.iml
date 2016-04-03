@@ -4,8 +4,8 @@
     <content url="file://$MODULE_DIR$">
       <sourceFolder url="file://$MODULE_DIR$/ch15_prog12/AddressBook.m" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/ch15_prog12/main.m" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/ch15_prog12/AddressCard.m" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/ch15_prog12/AddressCard.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ch15_prog12/AddressCard.m" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/ch15_prog12/AddressBook.h" isTestSource="false" />
     </content>
     <orderEntry type="sourceFolder" forTests="false" />

@@ -5,33 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f877119b-9746-4c32-bbdc-fb5ed21017e1" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch15_prog10/ch15_prog10/AddressCard.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch15_prog10/ch15_prog10/AddressCard.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch15_prog12/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch15_prog12/ch15_prog12/AddressBook.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch15_prog12/ch15_prog12/AddressBook.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch15_prog12/ch15_prog12/AddressCard.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch15_prog12/ch15_prog12/AddressCard.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch15_prog19/.idea/vcs.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ch4_prog4/ch4_prog4.xcodeproj/project.xcworkspace/xcuserdata/shuieryin.xcuserdatad/UserInterfaceState.xcuserstate" afterPath="$PROJECT_DIR$/../ch4_prog4/ch4_prog4.xcodeproj/project.xcworkspace/xcuserdata/shuieryin.xcuserdatad/UserInterfaceState.xcuserstate" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ch11_prog1/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../ch11_prog1/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ch13_prog11/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../ch13_prog11/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ch13_prog12/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../ch13_prog12/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ch13_prog14/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../ch13_prog14/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ch13_prog15/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../ch13_prog15/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ch13_prog16/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../ch13_prog16/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ch13_prog8/.idea/ch13_prog8.iml" afterPath="$PROJECT_DIR$/../ch13_prog8/.idea/ch13_prog8.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ch13_prog8/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../ch13_prog8/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ch13_prog9/.idea/ch13_prog9.iml" afterPath="$PROJECT_DIR$/../ch13_prog9/.idea/ch13_prog9.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ch13_prog9/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../ch13_prog9/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ch4_prog4/.idea/ch4_prog4.iml" afterPath="$PROJECT_DIR$/../ch4_prog4/.idea/ch4_prog4.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ch4_prog4/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../ch4_prog4/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ch8_prog4/.idea/ch8_prog4.iml" afterPath="$PROJECT_DIR$/../ch8_prog4/.idea/ch8_prog4.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ch8_prog4/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../ch8_prog4/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ch8_prog6/.idea/ch8_prog6.iml" afterPath="$PROJECT_DIR$/../ch8_prog6/.idea/ch8_prog6.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ch8_prog6/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../ch8_prog6/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ch9_prog3/.idea/ch9_prog3.iml" afterPath="$PROJECT_DIR$/../ch9_prog3/.idea/ch9_prog3.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ch9_prog3/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../ch9_prog3/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ch15_prog10/.idea/misc.xml" afterPath="$PROJECT_DIR$/../ch15_prog10/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ch15_prog10/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../ch15_prog10/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ch16_prog8/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../ch16_prog8/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ch16_prog9/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../ch16_prog9/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ch18_prog2/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../ch18_prog2/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ch18_prog3/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../ch18_prog3/.idea/workspace.xml" />
     </list>
     <ignored path="ch15_prog18.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -55,7 +34,7 @@
       <file leaf-file-name="main.m" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/ch15_prog18/main.m">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.32345015">
+            <state relative-caret-position="240">
               <caret line="16" column="10" selection-start-line="16" selection-start-column="10" selection-end-line="16" selection-end-column="10" />
               <folding />
             </state>
@@ -110,7 +89,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Cidr.FilesView" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -139,6 +117,7 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Cidr.FilesView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -146,14 +125,14 @@
     <property name="settings.editor.splitter.proportion" value="0.2" />
   </component>
   <component name="RunManager" selected="Application.ch15_prog18">
-    <configuration default="false" name="ch15_prog18" type="AppleRunConfiguration" factoryName="Application" temporary="true" PASS_PARENT_ENVS="FALSE" PROJECT_NAME="ch15_prog18" TARGET_NAME="ch15_prog18" CONFIG_NAME="Debug" SCHEME_NAME="ch15_prog18" RUN_TARGET_PROJECT_NAME="ch15_prog18" RUN_TARGET_NAME="ch15_prog18" MAKE_ACTIVE="TRUE" WAIT_FOR="FALSE">
+    <configuration default="false" name="ch15_prog18" type="AppleRunConfiguration" factoryName="Application" temporary="true" PASS_PARENT_ENVS_2="true" PROJECT_NAME="ch15_prog18" TARGET_NAME="ch15_prog18" CONFIG_NAME="Debug" SCHEME_NAME="ch15_prog18" RUN_TARGET_PROJECT_NAME="ch15_prog18" RUN_TARGET_NAME="ch15_prog18" MAKE_ACTIVE="TRUE" WAIT_FOR="FALSE">
       <envs />
       <EXTENSION ID="org.jetbrains.appcode.reveal.RevealRunConfigurationExtension">
         <REVEAL_SETTINGS autoInject="false" autoInstall="true" askToEnableAutoInstall="true" />
       </EXTENSION>
       <method />
     </configuration>
-    <configuration default="true" type="AppleRunConfiguration" factoryName="Application" PASS_PARENT_ENVS="FALSE" PROJECT_NAME="ch15_prog18" TARGET_NAME="ch15_prog18" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="ch15_prog18" RUN_TARGET_NAME="ch15_prog18" MAKE_ACTIVE="TRUE" WAIT_FOR="FALSE">
+    <configuration default="true" type="AppleRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="ch15_prog18" TARGET_NAME="ch15_prog18" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="ch15_prog18" RUN_TARGET_NAME="ch15_prog18" MAKE_ACTIVE="TRUE" WAIT_FOR="FALSE">
       <envs />
       <EXTENSION ID="org.jetbrains.appcode.reveal.RevealRunConfigurationExtension">
         <REVEAL_SETTINGS autoInject="false" autoInstall="true" askToEnableAutoInstall="true" />
@@ -169,12 +148,15 @@
       </list>
     </recent_temporary>
   </component>
-  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="f877119b-9746-4c32-bbdc-fb5ed21017e1" name="Default" comment="" />
       <created>1459174912040</created>
       <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
       <updated>1459174912040</updated>
     </task>
     <servers />
@@ -214,7 +196,15 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/ch15_prog18/main.m">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch15_prog18/main.m">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
@@ -222,14 +212,14 @@
     </entry>
     <entry file="file:///Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.11.sdk/usr/include/objc/NSObject.h">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state relative-caret-position="0">
           <caret line="73" column="6" selection-start-line="73" selection-start-column="6" selection-end-line="73" selection-end-column="6" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ch15_prog18/main.m">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.32345015">
+        <state relative-caret-position="240">
           <caret line="16" column="10" selection-start-line="16" selection-start-column="10" selection-end-line="16" selection-end-column="10" />
           <folding />
         </state>

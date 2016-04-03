@@ -2,43 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="39663a1d-b65f-446d-8cb8-3ffca356baeb" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ch4_prog4/ch4_prog4.xcodeproj/project.xcworkspace/xcuserdata/shuieryin.xcuserdatad/UserInterfaceState.xcuserstate" afterPath="$PROJECT_DIR$/../ch4_prog4/ch4_prog4.xcodeproj/project.xcworkspace/xcuserdata/shuieryin.xcuserdatad/UserInterfaceState.xcuserstate" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ch11_prog1/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../ch11_prog1/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ch13_prog11/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../ch13_prog11/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ch13_prog12/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../ch13_prog12/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ch13_prog14/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../ch13_prog14/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ch13_prog15/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../ch13_prog15/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ch13_prog16/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../ch13_prog16/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ch13_prog8/.idea/ch13_prog8.iml" afterPath="$PROJECT_DIR$/../ch13_prog8/.idea/ch13_prog8.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ch13_prog8/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../ch13_prog8/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ch13_prog9/.idea/ch13_prog9.iml" afterPath="$PROJECT_DIR$/../ch13_prog9/.idea/ch13_prog9.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ch13_prog9/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../ch13_prog9/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ch15_prog10/ch15_prog10/AddressCard.h" afterPath="$PROJECT_DIR$/../ch15_prog10/ch15_prog10/AddressCard.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ch15_prog10/ch15_prog10/AddressCard.m" afterPath="$PROJECT_DIR$/../ch15_prog10/ch15_prog10/AddressCard.m" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ch15_prog12/ch15_prog12/AddressBook.h" afterPath="$PROJECT_DIR$/../ch15_prog12/ch15_prog12/AddressBook.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ch15_prog12/ch15_prog12/AddressBook.m" afterPath="$PROJECT_DIR$/../ch15_prog12/ch15_prog12/AddressBook.m" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ch15_prog12/ch15_prog12/AddressCard.h" afterPath="$PROJECT_DIR$/../ch15_prog12/ch15_prog12/AddressCard.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ch15_prog12/ch15_prog12/AddressCard.m" afterPath="$PROJECT_DIR$/../ch15_prog12/ch15_prog12/AddressCard.m" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/ch18_prog3.iml" afterPath="$PROJECT_DIR$/.idea/ch18_prog3.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch18_prog3/Fraction.h" afterPath="$PROJECT_DIR$/ch18_prog3/Fraction.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch18_prog3/Fraction.m" afterPath="$PROJECT_DIR$/ch18_prog3/Fraction.m" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ch2_prog1/.idea/ch2_prog1.iml" afterPath="$PROJECT_DIR$/../ch2_prog1/.idea/ch2_prog1.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ch2_prog1/.idea/misc.xml" afterPath="$PROJECT_DIR$/../ch2_prog1/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ch2_prog1/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../ch2_prog1/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ch2_prog1/prog1/main.m" afterPath="$PROJECT_DIR$/../ch2_prog1/prog1/main.m" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ch4_prog4/.idea/ch4_prog4.iml" afterPath="$PROJECT_DIR$/../ch4_prog4/.idea/ch4_prog4.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ch4_prog4/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../ch4_prog4/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ch7_prog2/.idea/ch7_prog2.iml" afterPath="$PROJECT_DIR$/../ch7_prog2/.idea/ch7_prog2.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ch7_prog2/.idea/misc.xml" afterPath="$PROJECT_DIR$/../ch7_prog2/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ch7_prog2/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../ch7_prog2/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ch8_prog4/.idea/ch8_prog4.iml" afterPath="$PROJECT_DIR$/../ch8_prog4/.idea/ch8_prog4.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ch8_prog4/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../ch8_prog4/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ch8_prog6/.idea/ch8_prog6.iml" afterPath="$PROJECT_DIR$/../ch8_prog6/.idea/ch8_prog6.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ch8_prog6/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../ch8_prog6/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ch9_prog3/.idea/ch9_prog3.iml" afterPath="$PROJECT_DIR$/../ch9_prog3/.idea/ch9_prog3.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ch9_prog3/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../ch9_prog3/.idea/workspace.xml" />
     </list>
     <ignored path="ch18_prog3.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -58,12 +22,12 @@
     <favorites_list name="ch18_prog3" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="main.m" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/ch18_prog3/main.m">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="203">
-              <caret line="15" column="23" selection-start-line="15" selection-start-column="23" selection-end-line="15" selection-end-column="23" />
+            <state relative-caret-position="300">
+              <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -72,7 +36,7 @@
       <file leaf-file-name="NSObject.h" pinned="false" current-in-tab="false">
         <entry file="file:///Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.11.sdk/usr/include/objc/NSObject.h">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="144">
+            <state relative-caret-position="1080">
               <caret line="72" column="6" selection-start-line="72" selection-start-column="6" selection-end-line="72" selection-end-column="6" />
               <folding />
             </state>
@@ -82,7 +46,7 @@
       <file leaf-file-name="Fraction.m" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ch18_prog3/Fraction.m">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="233">
+            <state relative-caret-position="780">
               <caret line="52" column="19" selection-start-line="52" selection-start-column="19" selection-end-line="52" selection-end-column="19" />
               <folding />
             </state>
@@ -102,7 +66,7 @@
       <file leaf-file-name="NSObject.h" pinned="false" current-in-tab="false">
         <entry file="file:///Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.11.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSObject.h">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="158">
+            <state relative-caret-position="240">
               <caret line="16" column="10" selection-start-line="16" selection-start-column="10" selection-end-line="16" selection-end-column="10" />
               <folding />
             </state>
@@ -222,6 +186,12 @@
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.npm" factoryName="npm">
@@ -255,27 +225,27 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="53" y="37" width="1345" height="839" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
-      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24981412" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24981412" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32987013" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32987013" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -295,17 +265,17 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file:///Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.11.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSObject.h">
+    <entry file="file://$PROJECT_DIR$/ch18_prog3/main.m">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="158">
-          <caret line="16" column="10" selection-start-line="16" selection-start-column="10" selection-end-line="16" selection-end-column="10" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file:///Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.11.sdk/usr/include/objc/NSObject.h">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
+        <state relative-caret-position="1080">
           <caret line="72" column="6" selection-start-line="72" selection-start-column="6" selection-end-line="72" selection-end-column="6" />
           <folding />
         </state>
@@ -313,7 +283,47 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ch18_prog3/Fraction.m">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="233">
+        <state relative-caret-position="780">
+          <caret line="52" column="19" selection-start-line="52" selection-start-column="19" selection-end-line="52" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch18_prog3/Fraction.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="35" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.11.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSObject.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="10" selection-start-line="16" selection-start-column="10" selection-end-line="16" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.11.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSObject.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="10" selection-start-line="16" selection-start-column="10" selection-end-line="16" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.11.sdk/usr/include/objc/NSObject.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1080">
+          <caret line="72" column="6" selection-start-line="72" selection-start-column="6" selection-end-line="72" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch18_prog3/Fraction.m">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="780">
           <caret line="52" column="19" selection-start-line="52" selection-start-column="19" selection-end-line="52" selection-end-column="19" />
           <folding />
         </state>
@@ -329,8 +339,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ch18_prog3/main.m">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="203">
-          <caret line="15" column="23" selection-start-line="15" selection-start-column="23" selection-end-line="15" selection-end-column="23" />
+        <state relative-caret-position="300">
+          <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
           <folding />
         </state>
       </provider>
