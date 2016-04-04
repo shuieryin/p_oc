@@ -5,11 +5,11 @@
       <sourceFolder url="file://$MODULE_DIR$/ch21/Assets.xcassets" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/ch21/ViewController.h" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/ch21/AppDelegate.h" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/ch21/main.m" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/ch21/Fraction.m" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/ch21/Calculator.m" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/ch21/Info.plist" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/ch21/Fraction.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ch21/Info.plist" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ch21/main.m" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/ch21/Calculator.h" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/ch21/ViewController.m" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/ch21/AppDelegate.m" isTestSource="false" />
@@ -17,8 +17,8 @@
       <sourceFolder url="file://$MODULE_DIR$/ch21/Base.lproj/Main.storyboard" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/ch21Tests/ch21Tests.m" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/ch21Tests/Info.plist" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/ch21UITests/ch21UITests.m" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/ch21UITests/Info.plist" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ch21UITests/ch21UITests.m" isTestSource="false" />
     </content>
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module-library">
